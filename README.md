@@ -50,7 +50,7 @@ Gangguan listrik yang disebabkan oleh cuaca ekstrem berdampak signifikan pada ke
 git clone https://github.com/username/efw-ews.git
 cd efw-ews
 pip install -r requirements.txt
-python app.py
+python app/app.py
 ```
 
 ---
