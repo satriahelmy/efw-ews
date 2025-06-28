@@ -52,6 +52,11 @@ cd efw-ews
 pip install -r requirements.txt
 python app/app.py
 ```
+## Menggunakan Docker
+```bash
+docker build -t efw-ews
+docker run --rm efw-ews
+```
 
 ---
 
