@@ -13,13 +13,12 @@ Gangguan listrik yang disebabkan oleh cuaca ekstrem berdampak signifikan pada ke
 
 ## Fitur Utama
 
-✅ Prediksi risiko gangguan listrik dengan machine learning  
-✅ Integrasi data cuaca dan real-time  
-✅ Transformasi fitur dengan Yeo-Johnson dan robust scaling  
-✅ Penanganan ketidakseimbangan kelas dengan SMOTE, ADASYN dan SMOTE-ENN
-✅ Geospatial enrichment menggunakan jarak ke pusat beban dan clustering lokasi  
-✅ Penggunaan model ensemble: Random Forest, XGBoost, AdaBoost, dan LightGBM  
-✅ Evaluasi model dengan metrik F1-Score, False Negative, dan Confusion Matrix
+- Prediksi risiko gangguan listrik dengan machine learning  
+- Transformasi fitur dengan Yeo-Johnson dan robust scaling  
+- Penanganan ketidakseimbangan kelas dengan SMOTE, ADASYN dan SMOTE-ENN
+- Geospatial enrichment menggunakan jarak ke pusat beban dan clustering lokasi  
+- Penggunaan model ensemble: Random Forest, XGBoost, AdaBoost, dan LightGBM  
+- Evaluasi model dengan metrik F1-Score, False Negative, dan Confusion Matrix
 
 ---
 
